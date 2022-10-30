@@ -7,6 +7,5 @@ Since Python 3 is the current version in active development and addressed as the
 
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1667115536421/y3zbZH_nB.gif" align="center">
 
-admin 
 user : admin 
 pass : 77099
